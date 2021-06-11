@@ -3,13 +3,13 @@
     "cpu": {
       "enabled": true,
       "optimizationMethod": "Auto",
-      "threadCount": 2
+      "threadCount": 1
     },
     "nvidia": {
       "devices": [
         {
           "desktopLag": 70,
-          "enabled": false,
+          "enabled": true,
           "id": 0,
           "intensity": 70,
           "name": ""
